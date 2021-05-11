@@ -1,7 +1,7 @@
 {
-  "name": "gemoji",
+  "name": "Gemoji",
   "version": "7.0.0",
-  "description": "GitHub emoji: gemoji",
+  "description": "Gemojis - Emojis for Github Use",
   "license": "MIT",
   "keywords": [
     "gemoji",
@@ -13,7 +13,7 @@
     "alias",
     "name"
   ],
-  "repository": "theandrebass/gemoji",
+  "repository": "theandrebass/Gemoji",
   "author": "Andre Bass <andrebassbusiness@gmail.com> (https://robertandrebass.com)",
   "contributors": [
     "Andre Bass <andrebassbusiness@gmail.com> (https://robertandrebass.com)"
