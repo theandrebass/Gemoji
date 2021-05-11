@@ -1,11 +1,11 @@
-# gemoji
+# Gemoji
 
 [![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
 Gemoji (**G**itHub **Emoji**) contains info (category, description, names, and
-tags) on Emoji and GitHub “Gemoji” shortcodes.
+tags) on Emoji and GitHub “Gemoji” shortcodes. Emojis for Github use.
 
 ## Install
 
@@ -144,7 +144,7 @@ not be available on the users computer.
 
 <!-- Definitions -->
 
-[build-badge]: https://github.com/theandrebass/gemoji/workflows/main/badge.svg
+[build-badge]: https://github.com/theandrebass/Gemoji/workflows/main/badge.svg
 
 [build]: https://github.com/theandrebass/gemoji/actions
 
