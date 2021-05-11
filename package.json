@@ -13,15 +13,10 @@
     "alias",
     "name"
   ],
-  "repository": "wooorm/gemoji",
-  "bugs": "https://github.com/wooorm/gemoji/issues",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/wooorm"
-  },
-  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "repository": "theandrebass/gemoji",
+  "author": "Andre Bass <andrebassbusiness@gmail.com> (https://robertandrebass.com)",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
+    "Andre Bass <andrebassbusiness@gmail.com> (https://robertandrebass.com)"
   ],
   "sideEffects": false,
   "type": "module",
@@ -38,7 +33,6 @@
     "node-fetch": "^2.0.0",
     "prettier": "^2.0.0",
     "remark-cli": "^9.0.0",
-    "remark-preset-wooorm": "^8.0.0",
     "rimraf": "^3.0.0",
     "tape": "^5.0.0",
     "type-coverage": "^2.0.0",
@@ -74,7 +68,7 @@
   },
   "remarkConfig": {
     "plugins": [
-      "preset-wooorm",
+      "preset-theandrebass",
       [
         "gfm",
         {
